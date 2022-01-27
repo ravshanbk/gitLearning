@@ -1,7 +1,9 @@
-body{
+body {
     margin: 0;
 }
-h1{
+
+h1 {
+    font-weight: bold;
     font-size: 90px;
     color: aqua;
     font-family: sans-serif;
